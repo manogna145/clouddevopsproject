@@ -1,0 +1,14 @@
+# Ignore node_modules and build files for React
+frontend/node_modules/
+frontend/build/
+
+# Ignore target and IDE files for Spring Boot
+backend/target/
+*.class
+*.war
+*.jar
+
+# Ignore Eclipse and VS Code settings
+**/.vscode/
+**/.idea/
+**/.DS_Store

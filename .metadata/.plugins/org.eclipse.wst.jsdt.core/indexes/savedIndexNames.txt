@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+D:\jfsd\DEMOSPRINGWORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2687393329.index
+3013502835.index
+925135804.index
